@@ -28,7 +28,6 @@ export const extratoLista = {
       date: "8 JUN",
       from: "Uber",
     },
-
     {
       id: "926544",
       type: "Outros",
